@@ -10,3 +10,5 @@ This is gathering information about the targeted party using available online re
 
 
 #### Using Certain Keywords
+
+When we click on this link https://portal.nysc.org.ng/nysc1/ to visit NYSC Portal, we will see the below.
