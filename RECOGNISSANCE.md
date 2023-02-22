@@ -24,5 +24,17 @@ However , to narrow the search down to a specific keyword or file type, you can 
  ```
  site:nysc.org.ng filetype:.ssh
  ```
- 
+```
+nysc.org.ng/robots.txt 
+```
+```
+site:nysc.org.ng -intitle:admin
+```
+```
+nysc.org.ng/mgt/signinx
+```
+```
+site:nysc.org.ng inurl:mgt
+```
+
  
