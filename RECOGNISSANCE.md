@@ -11,7 +11,9 @@ This is gathering information about the targeted party using available online re
 
 #### Using Certain Keywords
 
-When we click on this link https://portal.nysc.org.ng/nysc1/ to visit NYSC Portal, we will see the below.
+##### NYSC Portal as Example
+
+- When we click on this link https://portal.nysc.org.ng/nysc1/ to visit NYSC Portal, we will see the below.
 
 ![UI Imager](https://github.com/FacelessHacker/MITRE/blob/main/Screenshot%20(69).png)
 
@@ -36,8 +38,14 @@ nysc.org.ng/mgt/signinx
 ```
 site:nysc.org.ng inurl:mgt
 ```
+```
 nysc.org.ng/mgt/Transactionstatus_Remita.aspx
 ```
 
+##### Using LinkedIn as EXample
+
+```
+ng.linkedin.com/company/nationalyouthservicecorps
+```
 
  
