@@ -12,3 +12,17 @@ This is gathering information about the targeted party using available online re
 #### Using Certain Keywords
 
 When we click on this link https://portal.nysc.org.ng/nysc1/ to visit NYSC Portal, we will see the below.
+
+![UI Imager](https://github.com/FacelessHacker/MITRE/blob/main/Screenshot%20(69).png)
+
+However , to narrow the search down to a specific keyword or file type, you can type the following in the search engine.
+ 
+ ```
+ site:nysc.org.ng filetype.pdf
+ ```
+ 
+ ```
+ site:nysc.org.ng filetype:.ssh
+ ```
+ 
+ 
